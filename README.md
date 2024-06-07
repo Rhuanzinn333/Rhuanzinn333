@@ -1,14 +1,6 @@
-
 <h1>Ola!, me chamo Ricardo Rhuan 👋</h1>
-
-###
-###
-
-<br clear="both">
-
 <p align="left">➮Sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades nesse mundo Tecnológico.</p>
 
-###
 
 <br clear="both">
 
