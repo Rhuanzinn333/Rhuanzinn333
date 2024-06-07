@@ -1,13 +1,7 @@
 
-
-<br clear="both">
-
 <h1>Ola!, me chamo Ricardo Rhuan 👋</h1>
 
 ###
-
-<h3 align="left">💻 Programador Front-end Web | UI Designer</h3>
-
 ###
 
 <br clear="both">
