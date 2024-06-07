@@ -1,7 +1,5 @@
 
 
-###
-
 <br clear="both">
 
 <h1>Ola!, me chamo Ricardo Rhuan 👋</h1>
