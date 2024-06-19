@@ -82,10 +82,10 @@
 ###
 <h2>Estatísticas:</h2>
 
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhuanzinn333&theme=github_dark)
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuann77&theme=github_dark)
 
   <div> 
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuanzinn333&layout=compact&langs_count=7&theme=github_dark&hide_border=true" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuann77&layout=compact&langs_count=7&theme=github_dark&hide_border=true" />
 </div>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rhuanzinn333&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
